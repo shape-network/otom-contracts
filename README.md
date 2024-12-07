@@ -21,7 +21,7 @@ https://book.getfoundry.sh/
 ### Install
 
 ```shell
-$ forge soldeer install
+$ forge install
 ```
 
 ### Build
